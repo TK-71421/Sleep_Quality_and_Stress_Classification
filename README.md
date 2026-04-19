@@ -1,4 +1,7 @@
-# Exploratory Binary & Multiclass Classification on Sleep Data
+# Exploratory Binary & Multiclass Classification on Sleep Health and Lifestyle Data
+
+This repo compares classification approaches using the following models:
+kNN, Decision Tree, Random Forest, Naive Bayes, ANN, SVM
 
 ### Binary Problem: 
 response: Stress Level
